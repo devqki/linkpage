@@ -153,15 +153,16 @@ section.main ul li a {
     text-decoration: none;
     margin: 20px 5px;
     font-size: 25px;
-    padding: 5px;
+    padding: 10px;
     transition: 0.2s all;
     cursor: pointer;
     margin-bottom: 210px;
+    
 }
 
 
 section.main ul li a:hover {
-    transition: 0.2s all;
+    transition: 0.6s all;
     font-size: 35px;
     color: #fff;
 }
@@ -172,7 +173,7 @@ section.main ul li a:hover {
         width: 0;
     }
     to {
-        width: 20em;
+        width: 19.5em;
     }
 }
 
