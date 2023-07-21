@@ -294,3 +294,12 @@ body {
       opacity: 1
   }
 }
+
+
+html::-webkit-scrollbar-track {
+  background: #1e1e23;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #1e1e23;
+}
