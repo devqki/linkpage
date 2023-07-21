@@ -251,9 +251,6 @@ body {
 /* MQ
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @media screen and (min-width: 600px) {
-  body {
-      overflow: visible;
-  }
   .my-form .grid {
     display: grid;
     grid-gap: 1.5rem;
@@ -278,9 +275,6 @@ body {
 }
 
 @media screen and (min-width: 541px) {
-  body {
-      overflow: visible;
-  }
   .my-form input[type="checkbox"] + label::before {
     top: 50%;
     transform: translateY(-50%);
